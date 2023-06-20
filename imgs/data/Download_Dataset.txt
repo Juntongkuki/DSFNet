@@ -1,0 +1,4 @@
+Download the dataset you need and put them here.
+
+For example,  "data/EndoScene/"
+and in the folder "EndoScene", there are train data folders and test data folders.
