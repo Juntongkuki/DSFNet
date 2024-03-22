@@ -10,3 +10,25 @@
     background-color: #333131;
 }
 
+.custom-background {
+    background-color: #EAF2F9;
+    border-top: 5px solid #7FAEDA;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.classtext {
+    color: #4D7DB5; /* 改变为红色 */
+    /* 可以根据需要设置其他样式，如背景色、加粗等 */
+    font-style: italic;
+    font-weight: bold;
+
+}
+
+.custom-background-2 {
+    background-color: #F0F0F0;
+    border-top: 5px solid #CCCCCC;
+    padding: 10px;
+    margin-bottom: 15px;
+    margin-top: -10px;
+}
